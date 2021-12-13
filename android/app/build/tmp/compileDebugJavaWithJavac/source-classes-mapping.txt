@@ -1,0 +1,14 @@
+com/sgar/ReactNativeFlipper.java
+ com.sgar.ReactNativeFlipper
+ com.sgar.ReactNativeFlipper$1
+ com.sgar.ReactNativeFlipper$2
+ com.sgar.ReactNativeFlipper$2$1
+com/sgar/MainActivity.java
+ com.sgar.MainActivity
+com/sgar/BuildConfig.java
+ com.sgar.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/sgar/MainApplication.java
+ com.sgar.MainApplication
+ com.sgar.MainApplication$1
